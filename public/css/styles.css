@@ -12,11 +12,12 @@ button:hover {
 
 a {
   text-decoration: none;
-  color: rgba(250, 6, 6, 0.651);
+  font: consolas;
+  color: rgba(56, 18, 228, 0.651);
 }
 
 a:hover {
-  color: rgba(50, 7, 241, 0.856);
+  color: rgba(241, 7, 136, 0.856);
 }
 
 .chat__messages,
@@ -208,4 +209,3 @@ button:disabled {
     margin-right: 0;
   }
 }
-/*# sourceMappingURL=styles.css.map */
